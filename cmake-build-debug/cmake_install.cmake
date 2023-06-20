@@ -1,4 +1,4 @@
-# Install script for directory: /Volumes/External/Nextcloud/Programming/SFML/testproj
+# Install script for directory: /Volumes/External/Nextcloud/Programming/SFML/FallingBlocksGame
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Volumes/External/Nextcloud/Programming/SFML/testproj/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Volumes/External/Nextcloud/Programming/SFML/FallingBlocksGame/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
