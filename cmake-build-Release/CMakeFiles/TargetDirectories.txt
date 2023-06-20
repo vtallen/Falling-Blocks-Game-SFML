@@ -1,0 +1,3 @@
+/volumes/External/Nextcloud/Programming/SFML/testproj/cmake-build-Release/CMakeFiles/HelloSFML.dir
+/volumes/External/Nextcloud/Programming/SFML/testproj/cmake-build-Release/CMakeFiles/edit_cache.dir
+/volumes/External/Nextcloud/Programming/SFML/testproj/cmake-build-Release/CMakeFiles/rebuild_cache.dir
