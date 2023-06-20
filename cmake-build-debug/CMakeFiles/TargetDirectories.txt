@@ -1,3 +1,0 @@
-/Volumes/External/Nextcloud/Programming/SFML/FallingBlocksGame/cmake-build-debug/CMakeFiles/HelloSFML.dir
-/Volumes/External/Nextcloud/Programming/SFML/FallingBlocksGame/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Volumes/External/Nextcloud/Programming/SFML/FallingBlocksGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
